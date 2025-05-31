@@ -1,0 +1,9 @@
+From: purchase@company.com
+Subject: Request for Quotation
+
+Dear Team,
+
+Please send us a quotation for the attached product list.
+
+Regards,
+Procurement Team
